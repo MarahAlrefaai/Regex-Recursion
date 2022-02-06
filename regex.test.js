@@ -17,7 +17,7 @@ function capitalA(s){
     if(string1== true && testing== false&& endA==true){
         return true;
     }else{
-      
+
         return false;
     }
    
